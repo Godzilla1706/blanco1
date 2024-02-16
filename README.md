@@ -1,0 +1,2 @@
+# blanco1
+ ssd
